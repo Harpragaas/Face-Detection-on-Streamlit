@@ -2,4 +2,4 @@
 
 
 This is a simple face detection app used on streamlit. The app uses Haar Cascade Classifier.
-It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images which is then used to detect objects in other images
+It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images which is then used to detect objects in other images.
