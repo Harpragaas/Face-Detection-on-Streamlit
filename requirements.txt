@@ -15,6 +15,7 @@ click==7.1.2
 colorama==0.4.4
 decorator==5.0.9
 defusedxml==0.7.1
+deepface==0.0.72
 entrypoints==0.3
 gitdb==4.0.7
 GitPython==3.1.17
