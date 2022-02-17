@@ -13,3 +13,9 @@ The app uses "DeepFace" to detect your current emotion, gender, age and race. De
 
 2. haarcascade_frontalface_default.xml- Downloaded from https://github.com/opencv/opencv/tree/master/data, where the haarcascade folder contains trained classifiers for detecting objects of a particular type, e.g. faces (frontal, profile), pedestrians etc.
               
+
+### Update :
+
+Currently streamlit is still developing a way in which the application can suuport the use of webcam. Streamlit doesn’t currently have any browser-based camera support, so this isn’t possible right now. However, I will provide a screen capture not how the interface will look like.
+
+## Link :- 
