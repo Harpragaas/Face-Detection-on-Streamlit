@@ -18,4 +18,4 @@ The app uses "DeepFace" to detect your current emotion, gender, age and race. De
 
 Currently streamlit is still developing a way in which the application can suuport the use of webcam. Streamlit doesn’t currently have any browser-based camera support, so this isn’t possible right now. However, I will provide a screen capture on how the interface will look like.
 
-## Link :- 
+## Link :- https://www.linkedin.com/feed/update/urn:li:activity:6900250657706889216/
